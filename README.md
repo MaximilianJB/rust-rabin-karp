@@ -1,1 +1,1 @@
-# rust-rabin-karp
+# Rabin Karp Implementation
